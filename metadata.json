@@ -1,0 +1,5 @@
+{
+  "name": "ChemoCare Tracker",
+  "description": "A mobile-first progressive web application designed for chemotherapy patients to track blood counts (WBC, NEU, PLT, HGB), visualize trends, and manage treatment history. Features local data privacy and AI-assisted trend analysis.",
+  "requestFramePermissions": []
+}
